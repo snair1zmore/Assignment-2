@@ -1,3 +1,6 @@
+This is the first time i am uploading the files. Had to take some help from the internet to check how it's done. Just to be sure I am also, pasting the code in here. 
+
+
 # Assignment-2
 Task 1: Check if a Number is Even or Odd 
 num = int(input("Enter a number: "))
